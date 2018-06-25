@@ -62,13 +62,13 @@ Some of the reasons why we choose Python for this introductory course are:
 * Less syntax to worry about, relatively :)
 
 ### Operators
-1. Assignment Operator
+#### Assignment Operator
 Assignment operator, `=`, is used to assign a value into a variable
 ```
 a = 20
 b = "Hi, there!"
 ```
-2. Arithmetic Operators
+#### Arithmetic Operators
 More or less the same with arithmetic operators that we know in maths.
 ```
 + for addition
@@ -79,7 +79,7 @@ More or less the same with arithmetic operators that we know in maths.
 ** for power
 % for modulo operation
 ```
-3. Relational Operators
+#### Relational Operators
 Again, very similar with what we have in math. :)
 ```
 < <= == > >= !=
@@ -87,7 +87,7 @@ Again, very similar with what we have in math. :)
 != is for non-equality
 ```
 
-4. Logical Operators
+#### Logical Operators
 There are only 2 values for boolean data type, namely `True` and `False`. In terms of logical operators, we will focus on these 3 operators for now.
 ```
 not --> for negation
