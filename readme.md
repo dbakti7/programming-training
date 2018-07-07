@@ -7,21 +7,16 @@ This program is intended to:
 * Promote collaboration to build cool stuff
 * Be a platform to learn and share advanced computer science skills
 
-## Upcoming Session
-`Sunday, 24 June 2018, 2 pm: Programming Concepts - Python`
-
-**[Programming Concepts - Python]** is a series covering basic concepts of programming and python scripting.
-
 
 ## Frequently Asked Questions
 ### When?
-The first session is scheduled on Sunday, 24 June 2018. We plan to hold it every weekend, please refer to `Upcoming Session` section for updated information every week.
+The first session is scheduled on Sunday, 24 June 2018. We plan to hold it every weekend, please refer to our group chat for updated information every week.
 
 ### Where?
 The exact venue will be updated every week at the group chat.
 
 ### How long is the duration for each session?
-The duration for each session is estimated around 4 - 8 hours.
+The duration for each session is estimated around 3 - 5 hours.
 
 ### How is the training will be conducted?
 The concept of the training is mini lectures with mini projects as the hands-on practices.
