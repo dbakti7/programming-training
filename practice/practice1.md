@@ -231,9 +231,10 @@ Make a program that takes an integer, `n`, as the input, where `n` denotes the n
 |3|4|
 |9|13|
 |30|44|
-|31|45|
+|31|46|
 |32|47|
 |33|49|
+|1000|1499|
 
 ## Climb, Panda! Climb!
 Panda loves climbing bamboo trees. Every one move, panda can climb up 30 cm. But because the trees are slippery, everytime panda climb up, he will slip down for 20 cm. The good news is, once panda reached the top of the tree, he could get a good grip and will not slip down after that. Given the height of the bamboo tree, help panda to determine how many moves he need to reach the top of the panda tree!
@@ -247,5 +248,7 @@ Make a program that takes an integer, `n`, as the input. `n` denotes the height 
 |42|3|
 |100|8|
 |101|9|
+|500|48|
+|1000|98|
 
 
