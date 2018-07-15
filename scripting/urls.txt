@@ -1,0 +1,8 @@
+www.randomsite.com/home.html
+www.randomsite.com/about%20us.html
+www.randomsite.com/articles/how%20to%20learn%20programming.html
+www.randomsite.com/articles/statistics.html
+www.randomsite.com/articles/class%20schedules.html
+www.anothersite.com/home.php
+www.anothersite.com/about.php
+www.anothersite.com/join%20us.php
